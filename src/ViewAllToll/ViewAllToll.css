@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+.tollpage{
+    text-align: center;
+    font-family: "Montserrat";
+}
+.tollpageheader{
+    display: flex;
+    justify-content: space-around;
+    padding-top:30px;
+
+}
+.alignitems{
+    display:flex;
+    justify-content:space-between;
+}
+
+tr:nth-child(even){
+    background-color: #D6EEEE;
+
+}
+tbody th{
+    width:25%;
+    height: 100px;
+    font-size:25px;
+}
+tbody td{
+padding:30px;
+font-size: 20px;
+}
+
+.deletebutton{
+    border:none;
+    padding:10px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+}

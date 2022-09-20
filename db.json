@@ -1,0 +1,89 @@
+{
+  "allData": [
+    {
+      "id": 1,
+      "vehicletype": "car/jeep/van",
+      "vehiclenumber": "TN24AQ4644",
+      "DateTime": "09/09/2022,16:43:48",
+      "tollname": "chengalpattu",
+      "Tariff": "40"
+    },
+    {
+      "id": 2,
+      "vehicletype": "car/jeep/van",
+      "vehiclenumber": "TN19QQ1234",
+      "DateTime": "09/09/2022,15:30:34",
+      "tollname": "kappalur",
+      "Tariff": "60"
+    },
+    {
+      "id": 3,
+      "vehicletype": "heavy vehicle",
+      "vehiclenumber": "TN24AA1234",
+      "DateTime": "09/09/2022,12:12:34",
+      "tollname": "kappalur",
+      "Tariff": "70"
+    },
+    {
+      "DateTime": "18/09/2022, 21:38:51",
+      "tollname": "lucknow",
+      "vehicletype": "lcv",
+      "vehiclenumber": "dmdii",
+      "id": 4
+    },
+    {
+      "DateTime": "18/09/2022, 22:25:59",
+      "tollname": "kerala",
+      "vehicletype": "truck/bus",
+      "vehiclenumber": "JHHN898",
+      "id": 5
+    },
+    {
+      "DateTime": "18/09/2022, 22:27:30",
+      "tollname": "lucknow",
+      "vehicletype": "lcv",
+      "vehiclenumber": "jssn9988",
+      "id": 6
+    },
+    {
+      "DateTime": "20/09/2022, 18:49:52",
+      "tollname": "chengalpattu",
+      "vehicletype": "lcv",
+      "vehiclenumber": "UP32JL9484",
+      "id": 7
+    },
+    {
+      "DateTime": "21/09/2022, 00:08:39",
+      "tollname": "chengalpattu",
+      "vehicletype": "truck/bus",
+      "vehiclenumber": "jsjsjsj",
+      "id": 8
+    }
+  ],
+  "toll": [
+    {
+      "tollname": "kerala",
+      "carjeepvan": "9373",
+      "lcv": "9837",
+      "truckbus": "847",
+      "heavyvehicle": "3837",
+      "id": 1
+    },
+    {
+      "tollname": "chengalpattu",
+      "carjeepvan": "837",
+      "lcv": "937",
+      "truckbus": "38",
+      "heavyvehicle": "928",
+      "id": 2
+    },
+    {
+      "tollname": "kappalur",
+      "carjeepvan": "837",
+      "lcv": "809",
+      "truckbus": "635",
+      "heavyvehicle": "634",
+      "id": 3
+    }
+  ]
+}
